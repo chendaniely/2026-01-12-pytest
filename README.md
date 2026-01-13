@@ -1,5 +1,7 @@
 # 2026-01-12-pytest
 
+Note: the name of the package in this repo is `pytest1`, **DO NOT** name it only `pytest` it will conflight with the PyPI `pytest` package and cause errors.
+
 ## Exercise
 
 1. Create a github repo, clone it down to your computer
